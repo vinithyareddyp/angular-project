@@ -1,1 +1,1 @@
-this is a repository for my angular project which is going to be on live stocks data application
+this is a repository for my angular project which is going to be on live stocks data application and  built in angular
