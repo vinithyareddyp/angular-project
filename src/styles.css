@@ -1,0 +1,86 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+    font-family: fantasy;
+    font-size: 16px;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    width: 400px;
+    height: 80vh;
+background-color: rgb(28, 27, 27);
+border-radius: 20px;
+box-shadow: 10px 10px 1px var(blue);
+color: white;
+padding: 5%;
+}
+.header {
+    font-size: 25px;
+}
+.subheading{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-top: 1vh;
+font-size: 20px;
+}
+.one {
+font-size: 20px;
+
+}
+.two {
+font-size: 20px;
+
+}
+
+.heading{
+    margin-top: 2vh;
+    font-size: 20px;
+}
+.graph{
+    
+        width: 105%;
+        height: 20vh;
+        margin-top: 1vh;
+      
+      
+}
+table {
+    width: 20%;
+    border-collapse: collapse;
+    width: 100%;
+    height: 21vh;
+    border-radius: 10px; 
+    overflow: hidden; 
+    background-color: #424141;
+    margin-top: 1vh;
+ 
+}
+  
+  
+  th, td {
+  
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #343131;
+  }
+  .bar {
+    width: 100%;
+    margin-top: 1vh;
+    
+  }
